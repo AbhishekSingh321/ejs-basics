@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+}
+.img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+img {
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  box-shadow: 12px 12px 30px rgb(27, 2, 116);
+  object-fit: cover;
+}

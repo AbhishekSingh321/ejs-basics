@@ -14,7 +14,7 @@ app.get('/ig/:username',(req,res)=>{
   if(data)
    res.render('page.ejs',{data})
   else{
-    res.render('error.ejs',{errorImg : '/error.png'})
+    res.render('error.ejs',{errorImg : '/error.png',username})
   }
 })
 
