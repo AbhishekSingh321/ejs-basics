@@ -28,7 +28,7 @@ If you request a username not present in `data.json`, the app renders the `views
 
 ## Live sample output
 
-Embedded below is a small sample image demonstrating the rendered profile layout. This SVG is included in the `output/` folder and is safe to preview on GitHub.
+Embedded below is a small sample image demonstrating the rendered profile layout.
 
 ![Sample profile output](output/image.png)
 ![Sample profile output](output/image2.png)
