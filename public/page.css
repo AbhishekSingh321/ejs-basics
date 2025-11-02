@@ -14,7 +14,12 @@
       color: aliceblue;
       background-color: black;
       margin: 12px;
+      transition: 0.5s scale;
     }
+    .posts div:hover{
+      scale: 1.05;
+    }
+
     .desc{
       margin-left: 5px;
       background-color: #fff;
