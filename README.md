@@ -28,7 +28,7 @@ If you request a username not present in `data.json`, the app renders the `views
 
 ## Live sample output
 
-Embedded below is a small sample image demonstrating the rendered profile layout. This SVG is included in the `output/` folder and is safe to preview on GitHub.
+Embedded below is a small sample image demonstrating the rendered profile layout.
 
 ![Sample profile output](output/image.png)
 ![Sample profile output](output/image2.png)
@@ -40,8 +40,7 @@ Embedded below is a small sample image demonstrating the rendered profile layout
 - `views/page.ejs` — profile page template.
 - `views/error.ejs` — shown when a username is missing.
 - `public/` — static assets (CSS, images). Add any images referenced by posts here or in your templates.
-- `output/image.png` 
-- `output/image2.png` — sample embedded output used in this README.— sample embedded output used in this README.
+- `output/image.png` `output/image2.png` — sample embedded output used in this README.— sample embedded output used in this README.
 
 ## Adding a new profile
 
